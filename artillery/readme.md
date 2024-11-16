@@ -47,3 +47,6 @@ canon:
 
 controls:  
 <img src="assets/control_panel.png" width=50% height=50%>  
+
+## let's get coding !
+[text](src/computer_0/canon_controller.lua)
