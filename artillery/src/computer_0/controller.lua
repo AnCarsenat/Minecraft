@@ -1,0 +1,2 @@
+shell.getCompletionInfo()
+ccarl.hi()
