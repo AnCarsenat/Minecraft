@@ -49,4 +49,28 @@ controls:
 <img src="assets/control_panel.png" width=50% height=50%>  
 
 ## let's get coding !
-[text](src/computer_0/canon_controller.lua)
+
+We will create a new file :
+[canon_controller.lua](src/computer_0/canon_controller.lua)
+in here we will define controls for resetting pitch and yaw, setting canon rotation etc...
+
+In a second file we will define functions for calculating canon angles.
+
+In a third file called "main" we will connect all modules
+
+And finally we will have a command line interface
+
+### canon controls
+<img src="assets/computer.png" width=50% height=50%> 
+
+
+we have two peripherals...
+they both contain three methods :  
+rotate: int  
+move: int  
+is_running(): bool  
+
+we will need two make a few more :  
+reset_angle()  
+calibrate()  
+
