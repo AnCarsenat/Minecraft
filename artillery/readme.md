@@ -6,19 +6,19 @@
 - create additions
 
 ## formula
-The formula to simple trajectories is the following : 
-![trajectory plotted](assets/image.png)
-![trajectory formula](assets/image-1.png)
+<img src="assets/image.png" width=25% height=50%>  
+The formula to simple trajectories is the following :  
+<img src="assets/image-1.png" width=17% height=17%>  
 
-y = refers to the vertical position of the object in meters  
+**y** = refers to the vertical position of the object in meters  
 
-x = refers to the horizontal position of the object in meters  
+**x** = refers to the horizontal position of the object in meters  
 
-v0 = refers to the initial velocity of the object combined with meter per second  
+**v0** = refers to the initial velocity of the object combined with meter per second  
 
-g = refers to the acceleration due to gravity that is 9.80 m/s2  
+**g** = refers to the acceleration due to gravity that is 9.80 m/s2  
 
-θ – refers to the initial angle from the horizontal plane in degrees or radians.  
+**θ** – refers to the initial angle from the horizontal plane in degrees or radians.  
 
 ## acquring target position
 we currently have no methods of obtaining the position for a "block" or a "target"  
@@ -42,9 +42,8 @@ end
 ## the setup
 
 
-canon:
-![canon image](assets/canon.png)
+canon:  
+<img src="assets/canon.png" width=50% height=50%>  
 
-
-
-![control pannel image](assets/control_panel.png)
+controls:  
+<img src="assets/control_panel.png" width=50% height=50%>  
